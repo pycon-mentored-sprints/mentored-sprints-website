@@ -13,7 +13,7 @@ CPython
 - Issue Tracker: https://bugs.python.org
 - Repo: https://github.com/python/cpython
 - Contributing Guide: https://devguide.python.org
-- Mentors: Python core developers (Carol Willing, Victor Stinner, Yury Selivanov, Petr Viktorin, Pablo Galindo Salgado, Emily Morehouse)
+- Mentors: Python core developers (Carol Willing, Victor Stinner, Yury Selivanov, Petr Viktorin, Pablo Galindo Salgado, Emily Morehouse, Barry Warsaw), Anthony Shaw
 
 Bowler/ AsyncIO libraries
 -------------------------
