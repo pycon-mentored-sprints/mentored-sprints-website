@@ -66,7 +66,7 @@ Trio
 - Issue Tracker: https://github.com/python-trio/trio/issues
 - Repo: https://github.com/python-trio/trio
 - Contributing Guide: https://trio.readthedocs.io/en/latest/contributing.html
-- Mentors: Nathaniel J. Smith, Anthony Shaw
+- Mentors: Nathaniel J. Smith, Anthony Shaw, Petr Viktorin
 - Project areas: Networking & concurrency
 
 The Python Package Index
