@@ -113,3 +113,12 @@ Sphinxserve
 - Contributing Guide: https://github.com/mzdaniel/sphinxserve
 - Mentors: Daniel Mizyrycki
 - Project areas: Education, DevOps, Tooling
+
+SecureDrop
+----------
+
+- Issue Tracker: https://github.com/freedomofpress/securedrop/issues
+- Repo: https://github.com/freedomofpress/securedrop
+- Contributing Guide: https://docs.securedrop.org/en/latest/development/contributing.html
+- Mentors: Jennifer Helsby
+- Project areas: Security, Web Development, Devops
