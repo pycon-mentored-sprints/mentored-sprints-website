@@ -75,8 +75,17 @@ The Python Package Index
 - Issue Tracker: https://github.com/pypa/warehouse/issues
 - Repo: https://github.com/pypa/warehouse
 - Contributing Guide: https://warehouse.readthedocs.io/development/
-- Mentors: Dustin Ingram, Elana Hashman, Pradyun Gedam
+- Mentors: Dustin Ingram, Elana Hashman
 - Project areas: Web Development, Security, Tooling
+
+pip - The Python Package Installer
+----------------------------------
+
+- Issue Tracker: https://github.com/pypa/pip/issues
+- Repo: https://github.com/pypa/pip
+- Contributing Guide: https://pip.pypa.io/en/latest/development/getting-started/
+- Mentors: Pradyun Gedam
+- Project areas: Developer tools, Tooling
 
 CircuitPython
 -------------
