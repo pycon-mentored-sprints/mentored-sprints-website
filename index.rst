@@ -36,6 +36,7 @@ to take on the sprint, **we encourage you to bring someone from an underrepresen
    projects_list
    contributor_resources
    mentor_resources
+   agenda
 
 About the sprints
 -----------------
