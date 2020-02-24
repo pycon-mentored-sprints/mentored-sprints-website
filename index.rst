@@ -5,8 +5,8 @@
 
 .. _index:
 
-Mentored Sprint for Diverse Beginners at PyCon US 2020
-======================================================
+Mentored Sprints for Diverse Beginners at PyCon US 2020
+==========================================================
 
 A newcomer’s introduction to contributing to an open-source project.
 --------------------------------------------------------------------
@@ -20,19 +20,25 @@ TL;DR
 
 🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 ✨🎉
 
-- **When:** 17th of April 2020 during the main PyCon session 
-- **Time**: TBC
-- **Applications timeline**: 17th of February 2020 to 20th of March 2020
+.. list-table:: 
+   :widths: 40 60
+   :header-rows: 0
 
-- ✨ **Apply to be a mentor** on the day or feature your open source project:  `https://goo.gl/forms/YCZP5auVi5ZFtMjg1 <https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link`_
+   * - **When**
+     - 17th April 2020
+   * - **Applications timeline**
+     - 17th of February 2020 to 20th March 2020 AoE 
+   * - **Apply to be a mentor**
+     - `<https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link>`_
+   * - **Apply to be a contributor (sprint on the day)**
+     - `<https://docs.google.com/forms/d/e/1FAIpQLSfJiC-V6Jd7R0BKwLTIzbhkd3HbEejML4PLvtFL_PYGkUQ89g/viewform?usp=sf_link>`_
 
-- ✨ **Apply to participate as a contributor** (sprint on the day): `https://goo.gl/forms/d3Blf8wgxWVoSIgO2 <https://docs.google.com/forms/d/e/1FAIpQLSfJiC-V6Jd7R0BKwLTIzbhkd3HbEejML4PLvtFL_PYGkUQ89g/viewform?usp=sf_link>`_
 
 - **Volunteer for our Git Helpdesk (4 volunteers needed)**: Help new contributors with git/GitHub,
   such as cloning repo, creating branch, committing, resolving merge conflict. **Coming soon**
 
 If you are not a member of an underrepresented group of the community and want
-to take on the sprint, **we encourage you to bring someone from an underrepresented group with you**.
+to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
 
 
 .. toctree::
@@ -50,7 +56,8 @@ are nothing but a collaborative effort from many community members. It is the
 constant involvement of the numerous maintainers, contributors, and users that
 make open-source software sustainable and keeps the community as a whole going.
 
-Walking the path from user to collaborator, and thus contributing to an open-source project, can sometimes be intimidating especially for newcomers. From a
+Walking the path from user to collaborator, and thus contributing to an open-source 
+project, can sometimes be intimidating especially for newcomers. From a
 technical perspective, interacting with web-based hosting services (such as
 GitHub, GitLab, etc.), branching and opening pull requests can be overwhelming
 if these are not everyday actions of your workflow. The correctness of the
@@ -113,7 +120,8 @@ with a higher sense of accomplishment.
 Projects that took part in 2019
 -------------------------------
 
-We want to thank the source maintainers and mentors who signed up and participating in the 2019 mentored sprint! This would not have been possible without you.
+We want to thank the source maintainers and mentors who signed up and particpated
+in the 2019 mentored sprint! This would not have been possible without you.
 
 - `CPython <https://github.com/python/cpython|>`_
 - `Bowler/ AsyncIO libraries <https://pybowler.io/>`_
