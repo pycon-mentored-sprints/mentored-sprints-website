@@ -8,7 +8,14 @@ Website for the mentored sprints. This site inlcudes details about the events, a
 
 Contributions are welcome. Also, if you encounter any issues, please go ahead and create an issue in this repo.
 
-The detailed contribution guidelines can be found in the [CONTIBUTING](./CONTRIBUTING.md) file, make sure to have a look first.
+The detailed contribution guidelines can be found in the [CONTRIBUTING](./CONTRIBUTING.md) file, make sure to have a look first.
+
+### Requirements
+
+- `Python >= 3.6`
+- `Sphinx >= 2.4`
+
+If you use [Poetry](https://poetry.eustace.io/) you can install the dependencies calling `poetry install` from your command line.
 
 ## Digital assets
 
@@ -16,4 +23,4 @@ The digital assets for the website can be found at <https://github.com/pycon-men
 
 ## Licensing
 
-The content of this repo is licensed under the [OSI](https://opensource.org/osd) [BSD-3](https://opensource.org/licenses/BSD-3-Clause) license for the code and the creative assets and written content under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
+The content of this repo is licensed under the [OSI](https://opensource.org/osd) [BSD-3](https://opensource.org/licenses/BSD-3-Clause) license for the code and the creative assets and written content under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.

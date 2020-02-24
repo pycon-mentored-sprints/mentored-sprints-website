@@ -12,13 +12,13 @@ GitHub has a helpful page on [getting started with writing and formatting Markdo
 
 Issues are individual pieces of work that need to be completed to move the project forward. A general guideline: if you find yourself tempted to write a great big issue that is difficult to describe as one unit of work, please consider splitting it into two or more issues.
 
-Issues are assigned [labels](https://github.com/trallard/TLJH-azure-button/labels) which explain how they relate to the overall project's goals and immediate next steps.
+Issues are assigned [labels][link_labels] which explain how they relate to the overall project's goals and immediate next steps.
 
 ### Issue labels
 
-The current list of labels are [here](https://github.com/trallard/TLJH-azure-button/labels) and include:
+The current list of labels are [here][link_labels] and include:
 
-* ![Question](https://img.shields.io/badge/-question%20❔-d876e3.svg) These issues are questions and represent a great place to start. Whoever has opened the issue wants to hear from you!
+* ![Question](https://img.shields.io/badge/-question%20❔-30336b.svg) These issues are questions and represent a great place to start. Whoever has opened the issue wants to hear from you!
 
  To reply, read the question and then respond in a variety of different ways:
  
@@ -31,7 +31,7 @@ The current list of labels are [here](https://github.com/trallard/TLJH-azure-but
 
 <br>
 
-* ![No Code ⚡️](https://img.shields.io/badge/-no%20code%20⚡️-602080.svg) These issues don't require any coding knowledge.
+* ![No Code ⚡️](https://img.shields.io/badge/-no%20code%20⚡️-5f27cd.svg) These issues don't require any coding knowledge.
  
  If you're looking to contribute but aren't very confident in your coding skills, these issues are a great place to start.
  
@@ -68,7 +68,7 @@ Please try to make sure that your enhancement is distinct from any others that h
 <br>
 
 
-* ![Documentation 📖](https://img.shields.io/badge/-documentation%20📖-ffb5b5.svg) These issues are asking for enhancements or improvement to the documentation.
+* ![Documentation 📖](https://img.shields.io/badge/-documentation%20📖-fd79a8.svg) These issues are asking for enhancements or improvement to the documentation.
 
 <br>
 
@@ -84,7 +84,7 @@ Once you've identified one of the issues above that you feel you can contribute 
 
  You can now do whatever you want with this copy of the project. You won't mess up anyone else's work, so you're super safe.
 
-3. Make the changes you've discussed.
+3. Make the changes you've discussed.`
 
  Try to keep the changes focused rather than changing lots of things at once. If you feel tempted to branch out then please *literally* branch out: create [separate branches][link_branches] for different updates to make the next step much more manageable!
 
@@ -100,11 +100,11 @@ You are awesome. :purple_heart::sparkles::sunny:
 
 And if you've found typos in this (or any other) page, you could consider submitting your very first pull request to fix them!
 
-
+<!-- Links -->
 [link_pushpullblog]: https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/
 [link_fork]: https://help.github.com/articles/fork-a-repo/
 [link_repo]: https://github.com/pycon-mentored-sprints/mentored-sprints-website
+[link_issues]: https://github.com/pycon-mentored-sprints/mentored-sprints-website/issues
+[link_labels]: https://github.com/pycon-mentored-sprints/mentored-sprints-website/labels
 [link_branches]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
 [link_pullrequest]: https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/
-[link_fixingtyposissue]: https://github.com/trallard/TLJH-azure-button/issues/1
-
