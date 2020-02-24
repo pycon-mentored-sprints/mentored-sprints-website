@@ -1,3 +1,5 @@
-# 2019-pycon-mentored-sprint
+# Mentored sprints website
 
-Online Resources for 2019 PyCon Mentored Sprint for Diverse Beginners
+Sphinx site for the mentored sprints for diverse beginners. 
+
+
