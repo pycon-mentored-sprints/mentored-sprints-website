@@ -38,7 +38,6 @@ to take on the sprint, **we encourage you to bring someone from an underrepresen
 .. toctree::
 
    self
-   projects_list
    contributor_resources
    mentor_resources
    agenda
@@ -109,6 +108,25 @@ organizers and attendees working together. This way the maintainers of
 a certain package can provide directed, effective and in-person mentoring to a
 group of individuals and the attendees feel more confident and usually leave
 with a higher sense of accomplishment.
+
+
+Projects that took part in 2019
+-------------------------------
+
+We want to thank the source maintainers and mentors who signed up and participating in the 2019 mentored sprint! This would not have been possible without you.
+
+- `CPython <https://github.com/python/cpython|>`_
+- `Bowler/ AsyncIO libraries <https://pybowler.io/>`_
+- `Folium <https://github.com/python-visualization/folium>`_
+- `Hypothesis <https://github.com/HypothesisWorks/hypothesis>`_
+- `TensorFlow <http://www.github.com/tensorflow/tensorflow>`_
+- `Project Jupyter - JupterHub and Binder <https://github.com/jupyterhub/jupyterhub>`_
+- `Trio <https://github.com/python-trio/trio/issues>`_
+- `DIB Lab - UC Davis <https://sourmash.readthedocs.io/>`_
+- `The Python Package Index - PyPI <https://github.com/pypa/warehouse>`_
+- `CircuitPython <https://github.com/adafruit/circuitpython>`_
+- `GNU Mailman <https://gitlab.com/mailman>`_
+- `Sphinxserve <https://github.com/mzdaniel/sphinxserve>`_
 
 Say hello
 ---------
