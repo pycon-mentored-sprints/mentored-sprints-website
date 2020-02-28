@@ -4,7 +4,7 @@ Resources for Mentors
 Thank you for signing up to mentor at mentored sprint for diverse beginners at PyCon US.
 We’re pleased to welcome you to the sprint.
 
-The mentored sprint will take place on **Saturday, May 4th 2:30 PM - 6:30 PM. Room 25C**
+The mentored sprint will take place on **Friday 17th April 2020 - Room 321**
 
 Some useful information:
 
@@ -21,7 +21,7 @@ Some useful information:
 - We understand that setting up local environment can be time consuming, and the steps
   can vary from one project to another. To help the event more successful, we recommend
   that you include detailed setup instruction in your project's contributing guideline by
-  **April 25th**. This will give the attendees enough time to get set up before PyCon.
+  **April 3rd**. This will give the attendees enough time to get set up before PyCon.
 
 - We also recommend that you prepare at least **5 beginner-friendly issues** to be worked
   on during the sprint. Here are some ideas to get you started:
@@ -38,10 +38,10 @@ Some useful information:
 
 By attending the mentored sprint at PyCon, you are also accepting to uphold PyCon and
 the PSF’s code of conduct. Please take a moment to read it through at
-https://us.pycon.org/2019/about/code-of-conduct/
+https://us.pycon.org/2020/about/code-of-conduct/
 
 Thank you again for your time to mentor! We are grateful for your work in open source and Python.
 See you soon in Cleveland! Please do not hesitate to reach us if you have additional questions
 or would like an extra bit of help preparing your project for the sprint.
 
-Tania, Nina, Nikoleta & Mariatta
+Tania, Nina, Katia, Cherry and Valery

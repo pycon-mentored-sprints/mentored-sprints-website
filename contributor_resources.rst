@@ -40,8 +40,8 @@ Text editors are tools with powerful features designed to optimize writing code.
 There are several text editors that you can choose from.
 Here are some we recommend:
 
-- Atom. Download at: https://atom.io.
 - VS code. Download at: https://code.visualstudio.com/.
+- Atom. Download at: https://atom.io.
 - Pycharm. Download at: https://www.jetbrains.com/pycharm/download/.
 
 We suggest trying several editors before settling on one.
@@ -54,4 +54,9 @@ and the step can vary from one project to another. We recommend that you check o
 contributing guidelines of the project that you’re interested in, and pre-install the
 requirements before coming to the sprint. If you're stuck in any way, let us know so we
 can help. We have also requested each of the projects that signed up to have their
-contributing guidelines up to date by **April 26th**.
+contributing guidelines up to date by **April 3rd**.
+
+Additional Resources
+---------------------
+
+- Step-by-step guide for making your first Pull Request to an open source project: https://slides.com/cheukting_ho/1st_pr
