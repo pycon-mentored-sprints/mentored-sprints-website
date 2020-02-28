@@ -55,3 +55,8 @@ contributing guidelines of the project that you’re interested in, and pre-inst
 requirements before coming to the sprint. If you're stuck in any way, let us know so we
 can help. We have also requested each of the projects that signed up to have their
 contributing guidelines up to date by **April 3rd**.
+
+Additional Resources
+---------------------
+
+- Step-by-step guide for making your first Pull Request to an open source project: https://slides.com/cheukting_ho/1st_pr
