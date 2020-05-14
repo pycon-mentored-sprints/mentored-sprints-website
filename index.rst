@@ -18,35 +18,26 @@ A newcomer’s introduction to contributing to an open-source project.
 TL;DR
 -----
 
-🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 ✨🎉
+🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 online!✨🎉
 
 .. list-table:: 
    :widths: 40 60
    :header-rows: 0
 
    * - **When**
-     - 17th April 2020
+     - 16-17th May 2020
    * - **Applications timeline**
-     - 17th of February 2020 to 20th March 2020 AoE 
-   * - **Apply to be a mentor**
-     - `<https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link>`_
-   * - **Apply to be a contributor (sprint on the day)**
-     - `<https://docs.google.com/forms/d/e/1FAIpQLSfJiC-V6Jd7R0BKwLTIzbhkd3HbEejML4PLvtFL_PYGkUQ89g/viewform?usp=sf_link>`_
+     - Now closed
 
 
-- **Volunteer for our Git Helpdesk (4 volunteers needed)**: Help new contributors with git/GitHub,
-  such as cloning repo, creating branch, committing, resolving merge conflict. **Coming soon**
-
-If you are not a member of an underrepresented group of the community and want
-to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
-
+.. note:: If you are not a member of an underrepresented group of the community and want to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
 
 .. toctree::
 
-   self
-   contributor_resources
-   mentor_resources
-   agenda
+  self
+  contributor_resources
+  mentor_resources
+  agenda
 
 About the sprints
 -----------------
