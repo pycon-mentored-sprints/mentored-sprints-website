@@ -1,11 +1,11 @@
 Agenda for the day
 ==================
 
-Welcome to the mentored sprints, this is the agenda for the day:
+Welcome to the mentored sprints, this is the schedule for the day:
 
 The event will start at 9:00 PST on the Saturday 16th May 2020 and finish at 13:00 JST on the Sunday 17th May 2020.
 
-For convenience we have divided the event sections in two major timezones block. Choose whichever fits you best.
+For convenience, we have divided the event sections in two major timezones block. Choose whichever fits you best.
 
 
 Americas | Europe | Africa
@@ -42,10 +42,10 @@ Housekeeping rules
 
 - Observe the code of conduct
 - Join the Discord Server using the link sent via email.
-- Once you have joined the Discord server perform the following actions:
+- Once you have joined the Discord server, perform the following actions:
 
     #. Make sure you have your real name or GitHub name
-    #. Head to the general channel and read the rules. Only when you have accepted the rules you will be able to see the other channels
+    #. Head to the general channel and read the rules. Only when you have accepted the standards, you will be able to see the other channels
     #. Introduce yourself in the introductions channel
 
 - Once you have assembled your working teams join the relevant Discord channel and listen to your mentor
@@ -55,5 +55,5 @@ Housekeeping rules
 
 Good to know
 -------------
-- We have decicated *Git mentors* that will be hanging around in the #helpdesk channel in Discord, make sure to chat to them if you need any assistance
+- We have dedicated *Git mentors* that will be hanging around in the #helpdesk channel in Discord, make sure to chat to them if you need any assistance
 - We will be observing the PyCon code of conduct at all times

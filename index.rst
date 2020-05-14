@@ -8,8 +8,8 @@
 Mentored Sprints for Diverse Beginners at PyCon US 2020
 ==========================================================
 
-A newcomer’s introduction to contributing to an open-source project.
---------------------------------------------------------------------
+A newcomer's introduction to contributing to an open-source project.
+-----------------------------------------------------------------------
 
 .. image:: https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner.png?raw=true
   :alt: Mentored sprints banner
@@ -20,7 +20,7 @@ TL;DR
 
 🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 online!✨🎉
 
-.. list-table:: 
+.. list-table::
    :widths: 40 60
    :header-rows: 0
 
@@ -35,9 +35,10 @@ TL;DR
 .. toctree::
 
   self
-  contributor_resources
-  mentor_resources
-  agenda
+  01_contributor_resources
+  02_mentor_resources
+  03_projects
+  04_agenda
 
 About the sprints
 -----------------
@@ -47,17 +48,16 @@ are nothing but a collaborative effort from many community members. It is the
 constant involvement of the numerous maintainers, contributors, and users that
 make open-source software sustainable and keeps the community as a whole going.
 
-Walking the path from user to collaborator, and thus contributing to an open-source 
-project, can sometimes be intimidating especially for newcomers. From a
+Walking the path from user to collaborator, and thus contributing to an open-source project, can sometimes be intimidating especially for newcomers. From a
 technical perspective, interacting with web-based hosting services (such as
 GitHub, GitLab, etc.), branching and opening pull requests can be overwhelming
 if these are not everyday actions of your workflow. The correctness of the
 code and potential bugs are other common obstacles and fears any newcomer
 might face. Not to mention the time and frustration accumulated over the task of
-finding a ‘beginner-friendly’ issue to work on.
+finding a 'beginner-friendly' issue to work on.
 
-We also recognize that some groups are traditionally underrepresented in the
-open source community and we would like to support them in their open-source path.
+We also recognise that some groups are traditionally underrepresented in the
+open-source community, and we would like to support them in their open-source path.
 For these reasons, we are running for the second time the PyCon mentored sprints for
 individuals from underrepresented groups willing to start contributing to Python
 projects. This event will provide a supportive, friendly, and safe environment
@@ -95,15 +95,15 @@ mentor-mentee or contributor relationships.
 What projects will you be sprinting on?
 ---------------------------------------
 
-PyCon US is the biggest Python conference organized every year, thousands of
+PyCon US is the biggest Python conference organised every year, thousands of
 developers, teachers, maintainers, and aficionados attend the event every year.
-As such it provides a unique opportunity to bring together creators,
+As such, it provides a unique opportunity to bring together creators,
 maintainers, and users for a few days.
 
 By running similar events in smaller conferences, we have learned that the
 attendees (and projects) get much more out of it by having maintainers,
-organizers and attendees working together. This way the maintainers of
-a certain package can provide directed, effective and in-person mentoring to a
+organisers and attendees working together. This way the maintainers of
+a particular package can provide directed, effective and in-person mentoring to a
 group of individuals and the attendees feel more confident and usually leave
 with a higher sense of accomplishment.
 
@@ -111,7 +111,7 @@ with a higher sense of accomplishment.
 Projects that took part in 2019
 -------------------------------
 
-We want to thank the source maintainers and mentors who signed up and particpated
+We want to thank the source maintainers and mentors who signed up and participated
 in the 2019 mentored sprint! This would not have been possible without you.
 
 - `CPython <https://github.com/python/cpython|>`_
@@ -130,7 +130,7 @@ in the 2019 mentored sprint! This would not have been possible without you.
 Say hello
 ---------
 
-If you would like to contact the organizers for any business related to
+If you would like to contact the organisers for any business related to
 the mentored sprints, please send us an email to tania@pyladies.com.
 
 About the organisers
@@ -151,7 +151,7 @@ Code of Conduct
 ---------------
 
 By attending the mentored sprint at PyCon 2019, you are also accepting to uphold PyCon and
-the PSF’s code of conduct. Please take a moment to read it through at
+the PSF's code of conduct. Please take a moment to read it through at
 https://us.pycon.org/2020/about/code-of-conduct/
 
 Contribute

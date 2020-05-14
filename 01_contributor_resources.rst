@@ -7,9 +7,9 @@ Pre-requisites
 Python
 ++++++
 
-For the mentored sprints we will be using `Python <https://www.python.org/>`_.
+For the mentored sprints, we will be using `Python <https://www.python.org/>`_.
 Installing all of Python's research packages individually can be a bit
-difficult, so we recommend using `Anaconda <https://www.anaconda.com/>`_ which
+complicated, so we recommend using `Anaconda <https://www.anaconda.com/>`_ which
 provides a variety of useful packages/tools.
 
 To download Anaconda, follow the link https://www.anaconda.com/download/ and select
@@ -49,9 +49,9 @@ We suggest trying several editors before settling on one.
 Your local environment
 ++++++++++++++++++++++
 
-Bring your own laptop. Setting up your local environment can be time consuming,
+Bring your own laptop. Setting up your local environment can be time-consuming,
 and the step can vary from one project to another. We recommend that you check out the
-contributing guidelines of the project that you’re interested in, and pre-install the
+contributing guidelines of the project that you're interested in, and pre-install the
 requirements before coming to the sprint. If you're stuck in any way, let us know so we
 can help. We have also requested each of the projects that signed up to have their
 contributing guidelines up to date by **April 3rd**.
@@ -59,4 +59,4 @@ contributing guidelines up to date by **April 3rd**.
 Additional Resources
 ---------------------
 
-- Step-by-step guide for making your first Pull Request to an open source project: https://slides.com/cheukting_ho/1st_pr
+- Step-by-step guide for making your first Pull Request to an open-source project: https://slides.com/cheukting_ho/1st_pr
