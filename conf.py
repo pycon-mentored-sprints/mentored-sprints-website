@@ -69,7 +69,7 @@ html_theme_options = {
     "font_family": "Montserrat, Georgia, sans",
     "head_font_family": "Sulphur Point, Georgia, serif",
     "code_font_family": "'Source Code Pro', 'Consolas', monospace",
-    "logo": "https://raw.githubusercontent.com/pycon-mentored-sprints/digital-assets/master/logos/blue-pink-text.svg",
+    "logo": "text-small-rectangle.png",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
