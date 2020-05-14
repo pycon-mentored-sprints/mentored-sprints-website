@@ -11,7 +11,7 @@ Mentored Sprints for Diverse Beginners at PyCon US 2020
 A newcomer's introduction to contributing to an open-source project.
 -----------------------------------------------------------------------
 
-.. image:: https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner.png?raw=true
+.. image:: https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner-online.png?raw=true
   :alt: Mentored sprints banner
 
 
@@ -33,7 +33,7 @@ TL;DR
 .. note:: If you are not a member of an underrepresented group of the community and want to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
 
 .. toctree::
-
+  
   self
   01_contributor_resources
   02_mentor_resources
