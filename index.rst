@@ -147,6 +147,8 @@ About the organisers
 
 - `Katia Lira <https://twitter.com/katialira>`_ Katia is a DEFNADO board member as well as one of the co-organisers of PyCon Latam and Django CDMX.
 
+- `Zac Hatfield-Dodds <https://zhd.dev/>`_ Zac is a cybernetics and computer science researcher at the Australian National University, and an enthusiastic open source community member and developer. What remains of his free time is usually spent reading books, savoring chocolate, and camping in the bush.
+
 Code of Conduct
 ---------------
 
