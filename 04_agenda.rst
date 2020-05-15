@@ -56,4 +56,4 @@ Housekeeping rules
 Good to know
 -------------
 - We have dedicated *Git mentors* that will be hanging around in the #helpdesk channel in Discord, make sure to chat to them if you need any assistance
-- We will be observing the PyCon code of conduct at all times
+- We will be observing `the PyCon code of conduct <https://us.pycon.org/2020/about/code-of-conduct/>`_ at all times

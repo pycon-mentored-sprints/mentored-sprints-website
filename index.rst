@@ -33,7 +33,7 @@ TL;DR
 .. note:: If you are not a member of an underrepresented group of the community and want to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
 
 .. toctree::
-  
+
   self
   01_contributor_resources
   02_mentor_resources

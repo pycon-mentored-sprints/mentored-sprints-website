@@ -9,9 +9,9 @@ The mentored sprint will take place on **16th - 17th of May 2020 online**.
 Some useful information:
 -------------------------
 
-- The mentored sprint is organized as part of PyCon US online initiatives. Pre-registration to the event is required. 
+- The mentored sprint is organized as part of PyCon US online initiatives. Pre-registration to the event is required.
 
-- We'reWe're excited that numerous projects and mentors have signed up for the sprint! Each project will have the opportunity to pitch for their own project to the group. Please be prepared with a ** 3-minute pitch**. Feel free to bring a slide (or two) with more details about you and the projects you are mentoring for if you feel like it. **Please
+- We're excited that numerous projects and mentors have signed up for the sprint! Each project will have the opportunity to pitch for their own project to the group. Please be prepared with a **3-minute pitch**. Feel free to bring a slide (or two) with more details about you and the projects you are mentoring for if you feel like it. **Please
   send us the link to your Google Slides one day in advance.**
 
 - We understand that setting up a local environment can be time-consuming, and the steps can vary from one project to another. To help the event more successful, we recommend that you include detailed setup instruction in your project's contributing guidelines before the event. This will give the attendees enough time to get set up before the sprint.
