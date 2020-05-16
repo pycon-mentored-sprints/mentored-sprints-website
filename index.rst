@@ -11,7 +11,7 @@ Mentored Sprints for Diverse Beginners at PyCon US 2020
 A newcomer's introduction to contributing to an open-source project.
 -----------------------------------------------------------------------
 
-.. image:: https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner-online.png?raw=true
+.. image:: https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner-online-no-date.png?raw=true
   :alt: Mentored sprints banner
 
 
@@ -20,12 +20,18 @@ TL;DR
 
 🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 online!✨🎉
 
+.. |br| raw:: html
+
+    <br>
+
 .. list-table::
    :widths: 40 60
    :header-rows: 0
 
    * - **When**
-     - 16-17th May 2020
+     - 16-17th May 2020 online!
+   * - **TimeZones**
+     - The event runs from 9AM-9PM PDT on May 16th, covering timezones in the US, Europe, and APAC through the morning of May 17th. |br| |br|  Check the `Americas + Europe friendly time slot <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentored+Sprints+-+slot+1&iso=20200516T09&p1=224&ah=4>`_. |br| |br|  Check the `APAC friendly time slot <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentored+sprints+-+slot+2&iso=20200517T10&p1=240&ah=4>`_.
    * - **Applications timeline**
      - Now closed
 
