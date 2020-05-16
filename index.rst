@@ -33,7 +33,7 @@ TL;DR
 .. note:: If you are not a member of an underrepresented group of the community and want to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
 
 .. toctree::
-  
+
   self
   01_contributor_resources
   02_mentor_resources
@@ -146,6 +146,8 @@ About the organisers
 - `Valery Briz <https://twitter.com/valerybriz>`_ Valery is a software engineer, the co-founder of Python Guatemala and co-organiser of PyLadies Mexico City.
 
 - `Katia Lira <https://twitter.com/katialira>`_ Katia is a DEFNADO board member as well as one of the co-organisers of PyCon Latam and Django CDMX.
+
+- `Zac Hatfield-Dodds <https://zhd.dev/>`_ Zac is a cybernetics and computer science researcher at the Australian National University, and an enthusiastic open source community member and developer. What remains of his free time is usually spent reading books, savoring chocolate, and camping in the bush.
 
 Code of Conduct
 ---------------

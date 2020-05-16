@@ -27,7 +27,7 @@ APAC
 
 .. list-table::
     :widths: 40 60
-    :header-row: 0
+    :header-rows: 0
 
    * - `8:30 am JST | 9:30 AEST <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Getting+started+with+GitHub+and+OSS+-+slot+2&iso=20200517T0830&p1=248&am=30>`_
      - Introduction to GitHub and contributing to open source (optional but good if you've never used GitHub before)
@@ -56,4 +56,4 @@ Housekeeping rules
 Good to know
 -------------
 - We have dedicated *Git mentors* that will be hanging around in the #helpdesk channel in Discord, make sure to chat to them if you need any assistance
-- We will be observing the PyCon code of conduct at all times
+- We will be observing `the PyCon code of conduct <https://us.pycon.org/2020/about/code-of-conduct/>`_ at all times
