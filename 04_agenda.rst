@@ -27,14 +27,14 @@ APAC
 
 .. list-table::
     :widths: 40 60
-    :header-row: 0
+    :header-rows: 0
 
-   * - `8:30 am JST | 9:30 AEST <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Getting+started+with+GitHub+and+OSS+-+slot+2&iso=20200517T0830&p1=248&am=30>`_
-     - Introduction to GitHub and contributing to open source (optional but good if you've never used GitHub before)
-   * - `9:00 am JST | 10:00 AEST  <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentored+sprints+-+slot+2&iso=20200517T10&p1=240&ah=4>`_
-     -  Sprints start
-   * -  13:00 JST | 21:00 EAT
-     -  Sprints official finish for the timezone
+    * - `8:30 am JST | 9:30 AEST <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Getting+started+with+GitHub+and+OSS+-+slot+2&iso=20200517T0830&p1=248&am=30>`_
+      - Introduction to GitHub and contributing to open source (optional but good if you've never used GitHub before)
+    * - `9:00 am JST | 10:00 AEST  <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentored+sprints+-+slot+2&iso=20200517T10&p1=240&ah=4>`_
+      -  Sprints start
+    * -  13:00 JST | 21:00 EAT
+      -  Sprints official finish for the timezone
 
 
 Housekeeping rules
